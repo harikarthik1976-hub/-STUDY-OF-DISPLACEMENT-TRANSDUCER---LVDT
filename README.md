@@ -31,5 +31,8 @@ voltages are noted down.
 <img width="575" height="457" alt="image" src="https://github.com/user-attachments/assets/99a3dafe-99f5-4b37-ba07-2c82b84cb5bd" />
 
 RESULT:
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/0384e702-8eac-4a24-ba93-54a93e7603c6" />
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/4b37e4e1-5b54-4687-ad7e-16dbc5336207" />
+
 
 
